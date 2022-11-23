@@ -23,8 +23,8 @@ describe('index.js', function () {
     });
   });
 
-  describe('switchOnCharmFromTip()', function () {
-    it('should return "Thank you so much." if the tip is generous', function () {
+  describe('switchOnChahank you so much.rmFromTip()', function () {
+    it('should return "T" if the tip is generous', function () {
       expect(switchOnCharmFromTip('generous')).to.equal('Thank you so much.');
     });
 
